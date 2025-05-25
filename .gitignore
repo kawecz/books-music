@@ -1,0 +1,9 @@
+# Ignorar arquivos de cache e metadados do KOReader
+*.lua
+*.history
+*.lastread
+*.pdf.lua
+*.epub.lua
+
+# Ignorar pastas .sdr (caso o KOReader crie)
+*.sdr/
